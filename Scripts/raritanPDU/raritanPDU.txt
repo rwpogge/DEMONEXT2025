@@ -1,0 +1,15 @@
+---
+# 
+# raritanPDU class default configuration file in YAML format
+#
+# This is for the DEMONEXT Raritan 4-port PXO PDU in the OSU lab.  
+#
+# 2024 Dec 11 - rwp/osu
+#
+
+pdu:
+  ipAddr: 140.254.79.215
+  userID: telemetry
+  passwd: D3monext
+  disableCert: Yes    # disable certificate verification
+  outletNames: ["pc","ccd","telescope","aux"]
