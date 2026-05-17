@@ -26,13 +26,17 @@ status codes returned).
 
 ## Working Directories
 
+### demonext
+
+Source folder for the DEMONEXT observatory control system pytho code.
+
 ### Config
 
 Runtime configuration files for the DEMONEXT 2025 system.  
 
 ### Scripts
 
-Development versions of python3 scripts to replace the original python2 code.
+Flight python scripts for the SRO DEMONEXT installation
 
 ### Documents
 
@@ -40,4 +44,6 @@ Copies of manuals for the DEMONEXT hardwar and associated materials.
 
 ### Sandbox
 
-Scripts and notebooks used to develope the 2025 reboot code base.
+Scripts and notebooks used to develop the 2025 reboot code base, and
+for on-going work.
+
