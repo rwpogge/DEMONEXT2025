@@ -226,10 +226,10 @@ class Telescope:
                     
                 stream.close()
             
-            else:
-                msg = f"Runtime configuration file {cfgFile} does not exist"
-                logger.exception(msg)
-                raise RuntimeError(msg)
+        else:
+            msg = f"Runtime configuration file {cfgFile} does not exist"
+            logger.exception(msg)
+            raise RuntimeError(msg)
         
         # Runtime flags
 
