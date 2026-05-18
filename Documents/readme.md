@@ -17,6 +17,8 @@ Mathis Instruments MI750/1000 equatorial fork mount
 Sidereal Technology Servo Controller II
  * Servo Controller II manual: `ServoDoc.pdf`
  * Servo Controller II wiring: `ServerControlerII_Wiring.pdf`
+ * [SiTechExe ASCOM Extensions Help](https://www.siderealtechnology.com/SiTechExeAscomExtensions.html)
+ * [ASCOM Developer Telescope Class](https://ascom-standards.org/help/html/T_ASCOM_DriverAccess_Telescope.htm)
 
 MOLYKOTE BR-2 Plus High-Performance Grease:
  * Technical Data Sheet: `MOLYKOTE_BR-2_Plus_High_Performance_Grease_71-0241E-01.pdf`
