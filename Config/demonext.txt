@@ -62,7 +62,7 @@ pdu:
 # Science CCD and filter wheel parameter
 
 ccd:
-  Setpoint: -10 # CCD TEC cooler setpoint temperature in C
+  Setpoint: -20 # CCD TEC cooler setpoint temperature in C
   MaxExpTime: 1800.0 # max exposure time in seconds
   Binning: [1,1]     # unbinned pixels
   FWStepTime: 1.2  # seconds to move 1 filter position in seconds
